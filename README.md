@@ -29,13 +29,18 @@ This notebook focuses exclusively on:
 ⚠️ **No predictive models are trained in this project.**
 
 ---
+### Key Insight: Price vs. Distance Analysis
+![Price vs Distance Relationship](scatterplot-melbourne.png)
 
+*The scatter plot above illustrates the strong correlation between a property's proximity to the CBD and its market price, a key factor addressed during our feature engineering process.*
 ## 🛠️ Techniques & Tools Used
 
 - **Python**
 - **Pandas & NumPy** — data manipulation
 - **Matplotlib & Seaborn** — data visualization
 - **Scikit-learn** — preprocessing and feature transformation
+
+---
 
 ### Key Techniques:
 - Univariate and multivariate analysis
